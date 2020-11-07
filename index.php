@@ -7,6 +7,8 @@
 
     <!-- css -->
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/wewillgo.css">
+
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet"> <!-- font-family: 'Alice', serif; -->
