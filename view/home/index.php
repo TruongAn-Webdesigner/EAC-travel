@@ -22,7 +22,7 @@
 
                 <div class="boxright">
                     <div class="menu">
-                            <a href="#">Where will we go?</a>
+                            <a href="index.php?ctrl=wewillgo">Where will we go?</a>
                             <a href="">Best Place</a>
                             <a href=""> Sale Tour</a>
                             <a href="">Tip Note</a>
@@ -47,78 +47,7 @@
 
     <!-- end header -->
 
-    <!-- about us -->
-
-        <div class="full">
-            <div class="about_us">
-                    <div class="title_about_us">
-                        <span>ABOUT US</span> <br>
-                        Duis vitae velit mollis, congue nisi dignissim, pellentesque lorem
-                    </div>
-
-                    <div class="ab_left">
-
-                        <div class="full">
-                            <div class="box_ab mt50 fr">
-
-                                 <div class="icon_box_ab"><i class="fab fa-font-awesome-flag"></i></div>
-                                <div class="text_box_ab">
-                                    <div class="title_box_ab">
-                                        THE BEGINNING
-                                    </div>
-
-                                    <div class="content_box_ab">
-                                    Quisque ut convallis diam, id pulvinar leo. Integer consequat
-                                     vulputate orci sit amet consequat
-                                    </div>
-                                </div>  
-
-                            </div>
-                        </div>
-
-                        <div class="full">
-                            <div class="box_ab mt300 fr">
-
-                                <div class="icon_box_ab"><i class="fas fa-building"></i></div>
-                                <div class="text_box_ab">
-                                    <div class="title_box_ab">
-                                            WE HAVE A NEW OFFICE
-                                    </div>
-
-                                    <div class="content_box_ab">
-                                    Aliquam sollicitudin, neque sed facilisis bibendum, dolor 
-                                    sapien consectetur nunc, sed eleifend mauris
-                                    </div>
-                                </div>  
-
-                             </div>
-                        </div>
-
-                    </div>
-
-                    <div class="ab_right">
-
-                        <div class="full">
-                            <div class="box_ab mt300">
-                                <div class="icon_box_ab"><i class="fas fa-trophy"></i></div>
-                                <div class="text_box_ab">
-                                    <div class="title_box_ab">
-                                            THE FIRST AWARD
-                                    </div>
-
-                                    <div class="content_box_ab">
-                                    Curabitur quis pulvinar sapien, vitae vehicula orci. Curabitur
-                                     scelerisque nulla ac augue lobortis
-                                    </div>
-                                </div>  
-                            </div>
-                         </div>
-
-                    </div>
-            </div>
-        </div>
-
-    <!-- end about us -->
+   
 
     <!-- top review -->
         <div class="full">
@@ -231,6 +160,68 @@
         </div>
 
     <!-- end logo hotel -->
+
+
+    <!-- banner home -->
+        
+        <div class="full">
+            <div class="bannerhome">
+               <div class="img_banner">
+                    
+               </div>
+            </div>
+        </div>
+
+    <!-- end banner home -->
+
+    <!-- tips note -->
+        <div class="full">
+            <div class="boxcenter">
+                <div class="tips">
+                        <div class="title_tips">
+                            <span>Tips Note</span> <br>
+                            Duis vitae velit mollis, congue nisi dignissim, pellentesque lorem
+                        </div>      
+                         
+                    <div class="full">
+                        <div class="content_tips">
+                            <div class="box_tips">
+                                
+                            </div>
+
+                            <div class="box_tips">
+                                
+                            </div>
+                            
+                            <div class="box_tips">
+                                
+                            </div>
+
+                            <div class="box_tips">
+                                
+                            </div>
+
+                            <div class="box_tips">
+                                
+                            </div>
+                            
+                            <div class="box_tips">
+                                
+                            </div>
+
+                            <div class="box_tips">
+                                
+                            </div>
+                                
+                            <div class="box_tips">
+                                    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- end tips -->
 
     <!-- footer -->
 
