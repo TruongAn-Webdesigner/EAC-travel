@@ -90,7 +90,7 @@ CREATE TABLE `diadiem` (
 INSERT INTO `diadiem` (`id_dd`, `name_dd`, `rating_dd`, `id_kv`, `img_dd`) VALUES
 (1, 'Hồ Chí Minh', 5, 1, 'img.png'),
 (2, 'Long an', 5, 2, 'img1.png');
-
+(3, '');
 -- --------------------------------------------------------
 
 --
@@ -110,7 +110,7 @@ CREATE TABLE `khachhang` (
 
 INSERT INTO `khachhang` (`id_kh`, `name_kh`, `email_kh`, `sdt_kh`) VALUES
 (1, 'Khách hàng 1', 'hothilan@gmail.com', 123456789),
-(2, 'Khách hàng 1', 'hothilan1@gmail.com', 1234567821);
+(2, 'Khách hàng 2', 'hothilan1@gmail.com', 1234567821);
 
 -- --------------------------------------------------------
 
