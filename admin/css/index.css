@@ -291,3 +291,101 @@ h1{
     background-color: black;
 }
 //END TA
+
+
+//Kim Ngan
+body {
+    margin: 0;
+    background-color: #CCC;
+}
+
+.menu {
+    float: left;
+    width: calc(20% - 20px);
+    height: 750px;
+    margin-right: 20px;
+    background-color: #777;
+}
+
+.boxright {
+    float: right;
+    width: 80%;
+    height: 750px;
+}
+
+.boxadd {
+    width: 50%;
+    height: 50px;
+}
+
+input {
+    width: 15%;
+    height: 30px;
+    font-weight: bold;
+    background-color: white;
+    border: 2px black solid;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 24pt;
+    line-height: 35px;
+}
+
+.boxtip {
+    width: calc(100% - 20px);
+    height: 300px;
+    padding-right: 20px;
+}
+
+.box_count_tip {
+    float: left;
+    width: calc(40% - 20px);
+    height: 250px;
+    background-color: #333;
+    margin-right: 20px;
+}
+
+.box_count_view_tip {
+    float: left;
+    width: calc(40% - 20px);
+    height: 250px;
+    background-color: #333;
+    margin-right: 20px;
+}
+
+.rank_tip {
+    float: right;
+    width: 20%;
+    height: 250px;
+    background-color: #333;
+}
+
+.tip {
+    float: left;
+    width: calc(80% - 20px);
+    height: 300px;
+}
+
+.box_tip {
+    float: left;
+    width: calc(25% - 20px);
+    height: 350px;
+    background-color: rgb(43, 43, 82);
+    margin: 10px;
+}
+
+a {
+    color: white;
+    font-size: 18pt;
+}
+
+input:hover {
+    color: white;
+    background: black;
+    transition: 0.2s;
+    border: 2px white solid;
+}
+//END KN
